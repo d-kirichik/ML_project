@@ -1,0 +1,13 @@
+S2V:
+  hidden_reg: 64
+  embed_dim: 64
+  pre_pool_len: 0
+  post_pool_len: 0
+  T: 5
+
+GCN:
+  hidden_reg: 64
+  embed_dim: 64
+  pre_pool_len: 0
+  post_pool_len: 0
+  T: 5
