@@ -1,7 +1,7 @@
 # Solving Combinatorial Optimization Problems with Reinforcement Learning methods
 
 In this project we study how Reinforcement Learning (RL) can be applied to combinatorial and graph optimization problems. 
-We closely follow Langley and Mitchell and investigate how sensitive the RL setup to neural network architectures, model parameters and study several RL algorithms. 
+We closely follow choosen sources and investigate the RL setup for neural network architectures, model parameters and study several RL algorithms. 
 We provide the results for Bin Packing problem, News Vendor, Minimum Vertex Cover (MVC) and Maximum Cut (MAXCUT).
 Results are quite encouraging, we think that Reinforcement Learning technics can be widely used in solving combinatorial optimization problems.
 
